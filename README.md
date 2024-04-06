@@ -2,7 +2,7 @@
 
 I am a software Engineer from Egypt
 
--  I’m currently building amazing products
+- 🔭 I’m currently building amazing products
 - 🌱 I’m currently learning AI, ML, Microservices, and Management
 - 💬 Ask me about 
   - Backend
