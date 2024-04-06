@@ -1,6 +1,6 @@
 ### Hello! My name is Thomas Said 👋
 
-I am a software Engineer from Egypt
+I am a Software Engineer from Egypt
 
 - 🔭 I’m currently building amazing products
 - 🌱 I’m currently learning AI, ML, Microservices, and Management
