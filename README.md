@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello! My name is Thomas Said 👋
 
-<!--
-**thomas545/thomas545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software Engineer from Egypt
 
-Here are some ideas to get you started:
+-  I’m currently building amazing products
+- 🌱 I’m currently learning AI, ML, Microservices, and Management
+- 👯 I’m looking to collaborate on anything help world and people
+- 💬 Ask me about 
+  - Backend
+  - DevOps
+  - AI
+  - System Design
+  - Architecture
+- 📫 You can find me on:
+  - [Linkedin](https://www.linkedin.com/in/thomasadel/)
+  - [My Newsletter](https://www.linkedin.com/newsletters/6977568700748951552/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### If you want to know more about me [Resume](https://docs.google.com/document/d/1yCokqZS-DkoapXRBqGNdDRogQKMq7CQ42iYeejCnfG4/edit?usp=sharing)
