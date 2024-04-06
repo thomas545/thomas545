@@ -4,7 +4,6 @@ I am a software Engineer from Egypt
 
 -  I’m currently building amazing products
 - 🌱 I’m currently learning AI, ML, Microservices, and Management
-- 👯 I’m looking to collaborate on anything help world and people
 - 💬 Ask me about 
   - Backend
   - DevOps
