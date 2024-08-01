@@ -41,4 +41,4 @@ Feel free to contact me through [email](mailto:thomas.adel31@gmail.com) or via [
 **Thomas Said**  
 _Senior Software Engineer_  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thomasadel/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/thomas545)[![Newsletter](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.linkedin.com/newsletters/6977568700748951552/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thomasadel/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/thomas545) [![Newsletter](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.linkedin.com/newsletters/6977568700748951552/)
