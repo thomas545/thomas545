@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Senior Software Engineer specializing in Backend development and DevOps. I have 6 years of professional experience in creating innovative solutions that enhance user experiences for clients from eCommerce, fintech, healthcare, advertising, and marketing sectors. Throughout my career, I have become proficient in a wide range of cutting-edge technologies, including Python, Javascript, Django, Node.js, Express, PostgreSQL, Amazon Web Services (AWS), Flask, MongoDB, Git, and Generative AI.
+I am a Senior Software Engineer specializing in Backend development and DevOps. I have 6 years of professional experience in creating innovative solutions that enhance user experiences for clients from eCommerce, fintech, healthcare, advertising, and marketing sectors. Throughout my career, I have become proficient in a wide range of cutting-edge technologies, including Python, Javascript, Django, Node.js, Express, PostgreSQL, Amazon Web Services (AWS), Flask, FastAPI MongoDB, Git, and Generative AI.
 
 - 📍 **Location:** Cairo, Egypt
 - 🔭 I’m currently building amazing products
