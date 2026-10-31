@@ -1,19 +1,27 @@
 # Hi, I'm Thomas Said 👋
 
-**Senior Software Engineer | Backend Engineering & DevOps**
+**Senior Software Engineer | Backend, DevOps & AI**
 
-I build backend systems and developer-friendly products, with 6 years of experience across eCommerce, fintech, healthcare, advertising, and marketing. I work with teams to turn complex requirements into reliable, maintainable software.
+I build backend systems and cloud infrastructure, and bring products from design through production. I currently work at ThoughtFull, where I have helped improve therapist matching, reduce AWS costs, and make deployments faster and more reliable. My experience spans healthcare, eCommerce, and consumer products, including platforms serving more than 30,000 active users.
 
 - 📍 Cairo, Egypt
 - 🐍 Favorite language: Python
-- 💬 Ask me about backend development, DevOps, system design, software architecture, and generative AI
+- 💬 Ask me about backend engineering, system design, cloud infrastructure, CI/CD, and generative AI
+
+## Highlights
+
+- Improved therapist matching success to **76%** at ThoughtFull.
+- Reduced AWS infrastructure costs by **48%** and increased deployment speed by **40%**.
+- Built and scaled backend services and product features for platforms with **30,000+ active users**.
+- Helped launch the backend and cloud infrastructure for an eCommerce fulfillment MVP in three months.
 
 ## Technologies
 
-**Languages:** Python, JavaScript  
-**Backend:** Django, Flask, FastAPI, Node.js, Express  
-**Data:** PostgreSQL, MongoDB  
-**Cloud & tools:** AWS, Git
+**Languages:** Python, Go, JavaScript, Elixir  
+**Frameworks:** Django, Flask, FastAPI, Phoenix, Angular  
+**Data & messaging:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka, RabbitMQ  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions  
+**AI/ML:** Generative AI, LLMs, Stable Diffusion, NumPy, pandas
 
 ## GitHub activity
 
