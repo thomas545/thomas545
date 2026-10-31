@@ -1,44 +1,39 @@
-# 👋 Hi there, I'm Thomas Said!
+# Hi, I'm Thomas Said 👋
 
-## About Me
+**Senior Software Engineer | Backend, DevOps & AI | Building Scalable Products and Systems**
 
-I am a Senior Software Engineer specializing in Backend development and DevOps. I have 6 years of professional experience in creating innovative solutions that enhance user experiences for clients from eCommerce, fintech, healthcare, advertising, and marketing sectors. Throughout my career, I have become proficient in a wide range of cutting-edge technologies, including Python, Javascript, Django, Node.js, Express, PostgreSQL, Amazon Web Services (AWS), Flask, FastAPI MongoDB, Git, and Generative AI.
+I build backend systems, cloud infrastructure, and AI-enabled product features for startups and fast-moving teams. My experience spans healthcare, eCommerce, media, and AI, taking products from architecture and development through deployment. I care about building reliable systems that solve real user and business problems.
 
-- 📍 **Location:** Cairo, Egypt
-- 🔭 I’m currently building amazing products
-- 💬 Ask me about 
-  - Backend
-  - DevOps
-  - System Design
-  - Architecture
-  - Generative AI
-- 📫 You can find me on:
-  - [Linkedin](https://www.linkedin.com/in/thomasadel/)
-  - [Newsletter](https://www.linkedin.com/newsletters/6977568700748951552/)
-  - [Resume](https://docs.google.com/document/d/1yCokqZS-DkoapXRBqGNdDRogQKMq7CQ42iYeejCnfG4/edit?usp=sharing)
+- 📍 Cairo, Egypt
+- 💬 Ask me about backend engineering, system design, cloud infrastructure, CI/CD, and generative AI
 
+## Highlights
 
-## 📈 GitHub Stats
+- Improved therapist matching success to **76%** and reduced AWS infrastructure costs by **48%** at ThoughtFull.
+- Increased deployment speed by **40%** through monitoring and CI/CD improvements.
+- Helped build **Vidiofy**, a text-to-video product at 1Bstories, contributing to the company's **$5.5M** funding milestone.
+- Helped launch Flextock's eCommerce fulfillment MVP in three months and contributed to its **$3M+** funding milestone.
+- Improved Dokkanz website response times from **10 seconds to 500 ms**.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## Technologies
 
-Hoping to pump up these stats and share more contributions with **Python** 🐍, my favorite programming language 😅
+**Languages:** Python, Go, JavaScript, Elixir  
+**Frameworks:** Django, Flask, FastAPI, Node.js, Phoenix, Angular  
+**Data & messaging:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka, RabbitMQ  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions  
+**AI/ML:** Generative AI, LLMs, Stable Diffusion, Hugging Face
 
-![thomas545's Stats](https://github-readme-stats.vercel.app/api?username=thomas545&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## GitHub activity
 
-![thomas545's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas545&theme=vue-dark&hide_border=true)
+![GitHub stats for Thomas Said](https://github-readme-stats.vercel.app/api?username=thomas545&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![thomas545's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas545&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas545&theme=vue-dark&hide_border=true)
 
-## 📫 Get in Touch
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas545&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-Feel free to contact me through [email](mailto:thomas.adel31@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/thomasadel/).
+## Connect
 
----
-
-**Thomas Said**  
-_Senior Software Engineer_  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thomasadel/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/thomas545) [![Newsletter](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.linkedin.com/newsletters/6977568700748951552/)
+- [LinkedIn](https://www.linkedin.com/in/thomasadel/)
+- [Newsletter](https://www.linkedin.com/newsletters/6977568700748951552/)
+- [Resume](https://docs.google.com/document/d/1yCokqZS-DkoapXRBqGNdDRogQKMq7CQ42iYeejCnfG4/edit?usp=sharing)
+- [Email](mailto:thomas.adel31@gmail.com)
